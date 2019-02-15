@@ -56,5 +56,9 @@
 		<span class="descrip"><p>Chart "Wait Icon" Now Configurable</p> 
 		Charts have an automatic loading image, a "wait icon", associated with them which appears by default:</span>
 	</div>
+	<div>
+		<h3>Hola mundo</h3>
+		<p>texto insert</p>
+	</div>
 </body>
 </html>
